@@ -1,3 +1,3 @@
-[submodule "xbyak_aarch64"]
-	path = xbyak_aarch64
-	url = https://github.com/fujitsu/xbyak_aarch64.git
+[submodule "dxz_aarch64"]
+	path = dxz_aarch64
+	url = https://github.com/wikipedia2008/dxz_aarch64.git
